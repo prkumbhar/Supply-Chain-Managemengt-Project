@@ -1,1 +1,2 @@
 # Supply-Chain-Managemengt-Project
+This project focuses on analyzing supply chain management data to uncover insights and optimize operations. Key objectives include identifying inefficiencies, predicting demand, and enhancing decision-making processes using data-driven approaches. The analysis covers key metrics such as inventory levels, delivery performance, supplier reliability, and cost efficiency.
